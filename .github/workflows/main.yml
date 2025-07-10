@@ -19,6 +19,10 @@ jobs:
     
     - name: Setup KSU
       run: curl -LSs "https://raw.githubusercontent.com/tiann/KernelSU/main/kernel/setup.sh" | bash -
+    
+    
+    - name: Fix smth
+      run: git config --global --add safe.directory /github/workspace/KernelSU
         
 
     - name: Android kernel build

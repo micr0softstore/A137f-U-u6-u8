@@ -3407,8 +3407,6 @@ void nicTxProcessTxDoneEvent(IN struct ADAPTER *prAdapter,
 				prAdapter->chip_info->prTxDescOps;
 			uint8_t ucNss, ucStbc;
 			int8_t icTxPwr;
-			uint32_t *pu4RawTxs =
-				(uint32_t *)&prTxDone->aucRawTxS[0];
 
 			if (prTxDescOps) {
 				ucNss = (prTxDone->u2TxRate &

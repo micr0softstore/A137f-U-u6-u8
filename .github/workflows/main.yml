@@ -16,6 +16,11 @@ jobs:
         repository: lemniskett/AnyKernel3
         path: zipper
 
+    
+    - name: Setup KSU
+      run: curl -LSs "https://raw.githubusercontent.com/tiann/KernelSU/main/kernel/setup.sh" | bash -
+        
+
     - name: Android kernel build
       uses: lemniskett/android-kernel-actions@master
       id: build

@@ -10,7 +10,7 @@
 - [Click here](https://github.com/micr0softstore/samsung_kernel_a13ve/blob/OneUI7/README)
 
 ## To compile:
-- $ git clone --depth=1 https://github.com/micr0softstore/samsung_kernel_a13ve
+- $ git clone --depth=1 https://github.com/micr0softstore/samsung_kernel_a13ve -b enforcing-u8
 - $ cd samsung_kernel_a13ve
 - $ sudo bash build_kernel.sh
 
@@ -32,5 +32,6 @@ v0.2:
 ### About kernel:
 - Got some commits from others like:
   - bpf commit from: t.me/nnhglong
+- Tested on: Binary 8
 - telegram channel on: t.me/a13vedev
 - Discussion on: https://t.me/a13mtkdiscuss

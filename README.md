@@ -7,7 +7,7 @@
 > Make sure you have build tools/packages installed, else it won't compile properly.
 
 ## Looking for linux readme?
-- [Click here](https://github.com/micr0softstore/samsung_kernel_a13ve/blob/OneUI7/README)
+- [Click here](https://github.com/micr0softstore/samsung_kernel_a13ve/blob/enforcing-u8/README)
 
 ## To compile:
 - $ git clone --depth=1 https://github.com/micr0softstore/samsung_kernel_a13ve -b enforcing-u8

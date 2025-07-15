@@ -89,4 +89,3 @@ struct posix_acl *erofs_get_acl(struct inode *inode, int type);
 #endif
 
 #endif
-

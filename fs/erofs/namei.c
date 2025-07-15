@@ -249,4 +249,3 @@ const struct inode_operations erofs_dir_iops = {
 #endif
 	.get_acl = erofs_get_acl,
 };
-

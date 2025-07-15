@@ -334,4 +334,3 @@ const struct inode_operations erofs_fast_symlink_iops = {
 #endif
 	.get_acl = erofs_get_acl,
 };
-

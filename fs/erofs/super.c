@@ -621,4 +621,3 @@ module_exit(erofs_module_exit);
 MODULE_DESCRIPTION("Enhanced ROM File System");
 MODULE_AUTHOR("Gao Xiang, Chao Yu, Miao Xie, CONSUMER BG, HUAWEI Inc.");
 MODULE_LICENSE("GPL");
-

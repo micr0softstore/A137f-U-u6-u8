@@ -320,4 +320,3 @@ static inline void erofs_check_ondisk_layout_definitions(void)
 }
 
 #endif
-

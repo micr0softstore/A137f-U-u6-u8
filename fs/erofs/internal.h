@@ -429,4 +429,3 @@ static inline void z_erofs_exit_zip_subsystem(void) {}
 #define EFSCORRUPTED    EUCLEAN         /* Filesystem is corrupted */
 
 #endif	/* __EROFS_INTERNAL_H */
-

@@ -19,6 +19,11 @@
 https://creascola.github.io/creacloud/share/?file=touchgrasskernel_v0.2_alpha_a13ve.zip
 
 Changelogs:
+v0.3
+- turned off kbrobes as we had issues with it on 4.x kernel
+- added manual hooks for ksu
+- added erofs
+  
 v0.2:
 - turned on kprobes
 
@@ -26,7 +31,7 @@ v0.2:
 - Bootable upto OneUI7
 - Dex TouchPad [SEC_TOUCHPAD] (Not yet)
 - KernelSU-Next
-- erofs (Not yet)
+- erofs
 - Maybe more in future
 
 ### About kernel:

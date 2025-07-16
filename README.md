@@ -19,6 +19,8 @@
 https://creascola.github.io/creacloud/share/?file=touchgrasskernel_v0.2_alpha_a13ve.zip
 
 Changelogs:
+v0.4
+ - upstreamed sdfat to 2.8.1 to fix SDcard on oneui 7, commit by Extreme XT
 v0.3
 - turned off kbrobes as we had issues with it on 4.x kernel
 - added manual hooks for ksu
@@ -37,6 +39,7 @@ v0.2:
 ### About kernel:
 - Got some commits from others like:
   - bpf commit from: t.me/nnhglong
+  - sdfs upstream commit by Extreme XT
 - Tested on: Binary 8
 - telegram channel on: t.me/a13vedev
 - Discussion on: https://t.me/a13mtkdiscuss

@@ -24,7 +24,7 @@ v0.4
  - upstreamed sdfat to 2.8.1 to fix SDcard on oneui 7, commit by Extreme XT
 
 v0.3
-- turned off kbrobes as we had issues with it on 4.x kernel
+- turned off kprobes as we had issues with it on 4.x kernel
 - added manual hooks for ksu
 - added erofs
   

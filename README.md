@@ -15,12 +15,14 @@
 - $ sudo bash build_kernel.sh
 
 ## Download:
-[LATEST] Release v0.2 Alpha:
-https://creascola.github.io/creacloud/share/?file=touchgrasskernel_v0.2_alpha_a13ve.zip
+[LATEST] Release v0.4 Alpha:
+https://drive.google.com/file/d/103S-ehSFzkIRi6Y65SPtOqz14NhJLNpL/view?usp=drivesdk
 
 Changelogs:
+
 v0.4
  - upstreamed sdfat to 2.8.1 to fix SDcard on oneui 7, commit by Extreme XT
+
 v0.3
 - turned off kbrobes as we had issues with it on 4.x kernel
 - added manual hooks for ksu
